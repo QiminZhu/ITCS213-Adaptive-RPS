@@ -1,7 +1,8 @@
 # Adaptive Rock–Paper–Scissors (MIPS Class Project)
 
 > **Course Project — ITCS213: Computer Organization and Architecture (MIPS Assembly)**  
-> *"The more you play, the more it learns your patterns."* 🐾
+> *"The more you play, the more it learns your patterns."* 🐾  
+> **Live Web Demo (GitHub Pages):** [https://qiminzhu.github.io/ITCS213-Adaptive-RPS/](https://qiminzhu.github.io/ITCS213-Adaptive-RPS/)
 
 **Adaptive Rock–Paper–Scissors** is a **MIPS assembly class project** developed for **ITCS213 (Computer Organization and Architecture)**. It implements a pattern-learning Rock–Paper–Scissors opponent across three layers of abstraction—**MIPS32 assembly**, **Python 3**, and a **self-contained interactive Web application**—all powered by the exact same hardware-friendly, integer-only Markov frequency table.
 
