@@ -1,0 +1,18 @@
+# MacOS metadata
+.DS_Store
+Icon?
+**/Icon?
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Course handouts, rubrics, slide templates, and Google Drive links
+*.gdoc
+*.pptx
+ITCS213-Project-Spec.pdf
+GradingRubric_ITCS213_Presentation+Slides.pdf
+
+# Early standalone drafts superseded by Website/ and mips/
+Adaptive RPS.html
+Prototype1_Handout.md
